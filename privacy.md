@@ -6,7 +6,7 @@ permalink: /privacy.html
 
 # Block L – Privacy Policy
 
-*Last updated: October 13, 2026*
+*Last updated: October 28, 2026*
 
 This privacy policy explains how **Block L** ("the game"), developed by Murat Muradıl Mert ("we", "us"), handles
 information when you use it on Android devices.
@@ -16,8 +16,8 @@ information when you use it on Android devices.
 - The game does **not** require an account and we do **not** collect, store or sell your personal information.
 - Your progress, scores and settings are stored on your device. If you use Google Play Games, your achievements
   and best score are also sent to Google Play Games.
-- The game shows ads through **Google AdMob** and sells optional items through **Google Play**. These Google services
-  may process some data as described below.
+- The game shows ads through **Google AdMob**. The game does not sell anything: there are no in-app purchases.
+  Google services may process some data as described below.
 
 ## Information stored on your device
 
@@ -27,7 +27,7 @@ Uninstalling the game deletes it.
 
 ## Advertising (Google AdMob)
 
-The free version of the game shows ads provided by Google AdMob. To show and measure ads, Google may collect and
+The game shows ads provided by Google AdMob. To show and measure ads, Google may collect and
 process information such as your device's advertising ID, IP address, device and app information, and your
 interactions with ads. Google may use this information to show personalized or non-personalized ads, depending on
 your choices and your region.
@@ -48,15 +48,17 @@ leaderboards. Your Play Games profile (gamer name and avatar) may be visible to 
 according to your Play Games settings. We do not receive your Google account details. Google's privacy policy
 applies: https://policies.google.com/privacy
 
-## In-app purchases (Google Play)
+## Earlier purchases (Google Play)
 
-Optional purchases (block skins and "Remove Ads") are processed entirely by Google Play. We never see or store your
-payment details. Google Play only tells the game which items you own so they can be unlocked, including after you
-reinstall the game. Google's privacy policy applies to these payments: https://policies.google.com/privacy
+The game no longer offers in-app purchases. If you bought an item in an earlier version (block skins or "Remove
+Ads"), you keep it: Google Play only tells the game which items you own so they stay unlocked, including after you
+reinstall the game. We never saw or stored your payment details. Google's privacy policy applies:
+https://policies.google.com/privacy
 
 ## Permissions
 
-- **Internet / network state:** to load ads and to check purchases.
+- **Internet / network state:** to load ads, to use Google Play Games and to restore earlier purchases.
+- **Notifications:** optional reminders to play, which can be turned off in the game settings or in Android settings.
 - **Vibration:** optional haptic feedback, which can be turned off in the game settings.
 
 ## Children
@@ -78,7 +80,7 @@ If you have any questions about this privacy policy, contact us at: **muratmurad
 
 # Block L – Gizlilik Politikası
 
-*Son güncelleme: 13 Ekim 2026*
+*Son güncelleme: 28 Ekim 2026*
 
 Bu gizlilik politikası, Murat Muradıl Mert ("biz") tarafından geliştirilen **Block L** ("oyun") adlı oyunu Android
 cihazlarda kullandığınızda bilgilerin nasıl işlendiğini açıklar.
@@ -88,7 +90,7 @@ cihazlarda kullandığınızda bilgilerin nasıl işlendiğini açıklar.
 - Oyun bir hesap **gerektirmez**; kişisel bilgilerinizi **toplamayız, saklamayız ve satmayız**.
 - İlerlemeniz, puanlarınız ve ayarlarınız cihazınızda saklanır. Google Play Games kullanıyorsanız başarımlarınız ve
   en iyi puanınız Google Play Games'e de gönderilir.
-- Oyun **Google AdMob** aracılığıyla reklam gösterir ve isteğe bağlı ürünleri **Google Play** üzerinden satar. Bu
+- Oyun **Google AdMob** aracılığıyla reklam gösterir. Oyunda hiçbir şey satılmaz: uygulama içi satın alma yoktur.
   Google hizmetleri bazı verileri aşağıda açıklandığı şekilde işleyebilir.
 
 ## Cihazınızda saklanan bilgiler
@@ -99,7 +101,7 @@ kaldırdığınızda silinir.
 
 ## Reklamlar (Google AdMob)
 
-Oyunun ücretsiz sürümü Google AdMob tarafından sağlanan reklamlar gösterir. Reklamları göstermek ve ölçmek için
+Oyun, Google AdMob tarafından sağlanan reklamlar gösterir. Reklamları göstermek ve ölçmek için
 Google; cihazınızın reklam kimliği, IP adresi, cihaz ve uygulama bilgileri ile reklamlarla etkileşimleriniz gibi
 bilgileri toplayıp işleyebilir. Google bu bilgileri, tercihlerinize ve bölgenize göre kişiselleştirilmiş ya da
 kişiselleştirilmemiş reklamlar göstermek için kullanabilir.
@@ -121,16 +123,17 @@ Games'e gönderir. Play Games profiliniz (oyuncu adı ve avatar), Play Games aya
 tablolarında diğer oyunculara görünebilir. Google hesap bilgilerinizi almayız. Google'ın gizlilik politikası
 geçerlidir: https://policies.google.com/privacy
 
-## Uygulama içi satın almalar (Google Play)
+## Önceki satın almalar (Google Play)
 
-İsteğe bağlı satın almalar (blok görünümleri ve "Reklamları kaldır") tamamen Google Play tarafından işlenir. Ödeme
-bilgilerinizi hiçbir zaman görmeyiz ve saklamayız. Google Play, oyuna yalnızca hangi ürünlere sahip olduğunuzu
-bildirir; böylece ürünler, oyunu yeniden yüklediğinizde de açılır. Bu ödemeler için Google'ın gizlilik politikası
-geçerlidir: https://policies.google.com/privacy
+Oyunda artık uygulama içi satın alma yoktur. Önceki bir sürümde bir ürün satın aldıysanız (blok görünümleri veya
+"Reklamları kaldır") ürün sizde kalır: Google Play, oyuna yalnızca hangi ürünlere sahip olduğunuzu bildirir; böylece
+ürünler, oyunu yeniden yüklediğinizde de açık kalır. Ödeme bilgilerinizi hiçbir zaman görmedik ve saklamadık.
+Google'ın gizlilik politikası geçerlidir: https://policies.google.com/privacy
 
 ## İzinler
 
-- **İnternet / ağ durumu:** reklamları yüklemek ve satın almaları kontrol etmek için.
+- **İnternet / ağ durumu:** reklamları yüklemek, Google Play Games'i kullanmak ve önceki satın almaları geri yüklemek için.
+- **Bildirimler:** isteğe bağlı oynama hatırlatmaları; oyun ayarlarından veya Android ayarlarından kapatılabilir.
 - **Titreşim:** isteğe bağlı dokunsal geri bildirim; oyun ayarlarından kapatılabilir.
 
 ## Çocuklar
