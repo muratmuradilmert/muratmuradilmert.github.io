@@ -6,24 +6,28 @@ permalink: /privacy.html
 
 # Block L – Privacy Policy
 
-*Last updated: October 28, 2026*
+*Last updated: November 18, 2026*
 
 This privacy policy explains how **Block L** ("the game"), developed by Murat Muradıl Mert ("we", "us"), handles
 information when you use it on Android devices.
 
 ## Summary
 
-- The game does **not** require an account and we do **not** collect, store or sell your personal information.
-- Your progress, scores and settings are stored on your device. If you use Google Play Games, your achievements
-  and best score are also sent to Google Play Games.
+- The game does **not** require an account. We do **not** ask for your name, email or contacts, and we do **not**
+  sell any information.
+- Your progress, scores and settings are stored on your device. If you use Google Play Games, your achievements,
+  best score and a backup of your progress are also saved to your Google Play Games account.
+- The game uses **Google Analytics for Firebase** to understand, without identifying you, how the game is played
+  (for example, when a game or level ends) and to measure our ad campaigns.
 - The game shows ads through **Google AdMob**. The game does not sell anything: there are no in-app purchases.
   Google services may process some data as described below.
 
 ## Information stored on your device
 
 The game saves your progress (levels, stars, scores, achievements, unlocked block skins) and your settings (sound,
-music, vibration, language) in files on your device. This information never leaves your device and is not sent to us.
-Uninstalling the game deletes it.
+music, vibration, language) in files on your device. This information is not sent to us. Uninstalling the game
+deletes it from your device; if you use Google Play Games, a backup of your progress stays in your Play Games account
+(see below).
 
 ## Advertising (Google AdMob)
 
@@ -45,8 +49,26 @@ https://policies.google.com/technologies/partner-sites
 If you have Google Play Games on your device, the game signs you in to it automatically. The game then sends your
 unlocked achievements and your best Classic score to Google Play Games so they can be shown in achievement lists and
 leaderboards. Your Play Games profile (gamer name and avatar) may be visible to other players on leaderboards,
-according to your Play Games settings. We do not receive your Google account details. Google's privacy policy
-applies: https://policies.google.com/privacy
+according to your Play Games settings.
+
+The game also keeps a backup of your progress (levels, stars, scores, achievements, statistics and unlocked block
+skins) in your Play Games account using Google Play Games **Saved Games**, so you can continue on a new device or after
+reinstalling. Your settings and an unfinished game stay on the device. You can delete this backup from your Google
+account settings (Play Games data). We do not receive your Google account details. Google's privacy policy applies:
+https://policies.google.com/privacy
+
+## Analytics (Google Analytics for Firebase)
+
+The game uses Google Analytics for Firebase to collect usage information: for example that the game was opened, how
+long it was played, and when a game or level ends (mode, level, score and whether it was won). Firebase also collects
+device and app information such as device model, Android version, approximate location (country / city, derived from
+the IP address) and an app instance ID. We use this information only in aggregate, to improve the game and to measure
+how well our Google Ads campaigns bring in players. It is not used to identify you and is not sold.
+
+- In the European Economic Area, the United Kingdom and Switzerland, analytics and ad measurement follow the consent
+  choices you make in the game's privacy message (**Settings → Privacy options**).
+- Google's privacy policy applies, and you can learn more about how Google uses this data:
+  https://policies.google.com/technologies/partner-sites
 
 ## Earlier purchases (Google Play)
 
@@ -57,7 +79,8 @@ https://policies.google.com/privacy
 
 ## Permissions
 
-- **Internet / network state:** to load ads, to use Google Play Games and to restore earlier purchases.
+- **Internet / network state:** to load ads, to use Google Play Games (including the progress backup), to send
+  analytics and to restore earlier purchases.
 - **Notifications:** optional reminders to play, which can be turned off in the game settings or in Android settings.
 - **Vibration:** optional haptic feedback, which can be turned off in the game settings.
 
@@ -80,24 +103,27 @@ If you have any questions about this privacy policy, contact us at: **muratmurad
 
 # Block L – Gizlilik Politikası
 
-*Son güncelleme: 28 Ekim 2026*
+*Son güncelleme: 18 Kasım 2026*
 
 Bu gizlilik politikası, Murat Muradıl Mert ("biz") tarafından geliştirilen **Block L** ("oyun") adlı oyunu Android
 cihazlarda kullandığınızda bilgilerin nasıl işlendiğini açıklar.
 
 ## Özet
 
-- Oyun bir hesap **gerektirmez**; kişisel bilgilerinizi **toplamayız, saklamayız ve satmayız**.
-- İlerlemeniz, puanlarınız ve ayarlarınız cihazınızda saklanır. Google Play Games kullanıyorsanız başarımlarınız ve
-  en iyi puanınız Google Play Games'e de gönderilir.
+- Oyun bir hesap **gerektirmez**. Adınızı, e-postanızı veya kişilerinizi **istemeyiz** ve hiçbir bilgiyi
+  **satmayız**.
+- İlerlemeniz, puanlarınız ve ayarlarınız cihazınızda saklanır. Google Play Games kullanıyorsanız başarımlarınız,
+  en iyi puanınız ve ilerlemenizin bir yedeği Google Play Games hesabınıza da kaydedilir.
+- Oyun, sizi tanımlamadan oyunun nasıl oynandığını anlamak (örneğin bir oyunun ya da bölümün ne zaman bittiği) ve
+  reklam kampanyalarımızı ölçmek için **Google Analytics for Firebase** kullanır.
 - Oyun **Google AdMob** aracılığıyla reklam gösterir. Oyunda hiçbir şey satılmaz: uygulama içi satın alma yoktur.
   Google hizmetleri bazı verileri aşağıda açıklandığı şekilde işleyebilir.
 
 ## Cihazınızda saklanan bilgiler
 
 Oyun ilerlemenizi (bölümler, yıldızlar, puanlar, başarımlar, açılan blok görünümleri) ve ayarlarınızı (ses, müzik,
-titreşim, dil) cihazınızdaki dosyalarda saklar. Bu bilgiler cihazınızdan çıkmaz ve bize gönderilmez. Oyunu
-kaldırdığınızda silinir.
+titreşim, dil) cihazınızdaki dosyalarda saklar. Bu bilgiler bize gönderilmez. Oyunu kaldırdığınızda cihazınızdan
+silinir; Google Play Games kullanıyorsanız ilerlemenizin yedeği Play Games hesabınızda kalır (aşağıya bakın).
 
 ## Reklamlar (Google AdMob)
 
@@ -120,8 +146,26 @@ https://policies.google.com/technologies/partner-sites
 Cihazınızda Google Play Games varsa oyun orada otomatik olarak oturum açar. Ardından kazandığınız
 başarımları ve Klasik moddaki en iyi puanınızı başarım listelerinde ve skor tablolarında gösterilmek üzere Google Play
 Games'e gönderir. Play Games profiliniz (oyuncu adı ve avatar), Play Games ayarlarınıza bağlı olarak skor
-tablolarında diğer oyunculara görünebilir. Google hesap bilgilerinizi almayız. Google'ın gizlilik politikası
-geçerlidir: https://policies.google.com/privacy
+tablolarında diğer oyunculara görünebilir.
+
+Oyun ayrıca, yeni bir cihazda ya da yeniden yüklemeden sonra devam edebilmeniz için ilerlemenizin (bölümler,
+yıldızlar, puanlar, başarımlar, istatistikler ve açılan blok görünümleri) bir yedeğini Google Play Games **Kayıtlı
+Oyunlar** özelliğiyle Play Games hesabınızda tutar. Ayarlarınız ve yarım kalan oyun cihazda kalır. Bu yedeği Google
+hesap ayarlarınızdan (Play Games verileri) silebilirsiniz. Google hesap bilgilerinizi almayız. Google'ın gizlilik
+politikası geçerlidir: https://policies.google.com/privacy
+
+## Analiz (Google Analytics for Firebase)
+
+Oyun, kullanım bilgilerini toplamak için Google Analytics for Firebase kullanır: örneğin oyunun açıldığı, ne kadar
+oynandığı ve bir oyunun ya da bölümün ne zaman bittiği (mod, bölüm, puan ve kazanılıp kazanılmadığı). Firebase ayrıca
+cihaz modeli, Android sürümü, yaklaşık konum (IP adresinden çıkarılan ülke / şehir) ve uygulama örneği kimliği gibi
+cihaz ve uygulama bilgilerini toplar. Bu bilgileri yalnızca toplu olarak, oyunu geliştirmek ve Google Ads
+kampanyalarımızın oyuncu getirme başarısını ölçmek için kullanırız. Sizi tanımlamak için kullanılmaz ve satılmaz.
+
+- Avrupa Ekonomik Alanı, Birleşik Krallık ve İsviçre'de analiz ve reklam ölçümü, oyunun gizlilik mesajında yaptığınız
+  izin tercihlerine (**Ayarlar → Gizlilik seçenekleri**) göre çalışır.
+- Google'ın gizlilik politikası geçerlidir; Google'ın bu verileri nasıl kullandığı hakkında:
+  https://policies.google.com/technologies/partner-sites
 
 ## Önceki satın almalar (Google Play)
 
@@ -132,7 +176,8 @@ Google'ın gizlilik politikası geçerlidir: https://policies.google.com/privacy
 
 ## İzinler
 
-- **İnternet / ağ durumu:** reklamları yüklemek, Google Play Games'i kullanmak ve önceki satın almaları geri yüklemek için.
+- **İnternet / ağ durumu:** reklamları yüklemek, Google Play Games'i (ilerleme yedeği dahil) kullanmak, analiz
+  verilerini göndermek ve önceki satın almaları geri yüklemek için.
 - **Bildirimler:** isteğe bağlı oynama hatırlatmaları; oyun ayarlarından veya Android ayarlarından kapatılabilir.
 - **Titreşim:** isteğe bağlı dokunsal geri bildirim; oyun ayarlarından kapatılabilir.
 
